@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cat's Animated Movie Day",
+  "description": "An application that generates a Disney-style animated video of a cat secretly watching cartoons, based on a detailed text prompt, using the Gemini API.",
+  "requestFramePermissions": []
+}
